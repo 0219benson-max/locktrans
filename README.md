@@ -18,4 +18,4 @@
 ## 聯絡方式
 
 如有任何疑問，請透過 GitHub Issues 聯繫：
-https://github.com/你的GitHub帳號/locktrans
+https://github.com/0219benson-max/locktrans
